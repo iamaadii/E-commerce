@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1240 1240" xmlns="http://www.w3.org/2000/svg">
+  <!-- White circular background -->
+  <circle cx="620" cy="620" r="600" fill="#FFFFFF"/>
+
+  <!-- Price tag shape (outline) -->
+  <path d="M 480 400
+           L 390 400
+           L 330 900
+           L 540 920
+           L 540 400
+           Z"
+        fill="#FFFFFF"
+        stroke="#1A1A1A"
+        stroke-width="14"
+        stroke-linejoin="round"/>
+
+  <!-- Gold triangle accent inside tag -->
+  <path d="M 385 580 L 500 900 L 360 880 Z" fill="#B08D57"/>
+
+  <!-- Tag string loop -->
+  <path d="M 450 400
+           C 450 320, 480 260, 545 260
+           C 610 260, 640 320, 640 380"
+        fill="none"
+        stroke="#1A1A1A"
+        stroke-width="14"
+        stroke-linecap="round"/>
+
+  <!-- Tag hole -->
+  <circle cx="450" cy="430" r="18" fill="none" stroke="#1A1A1A" stroke-width="10"/>
+
+  <!-- Letter F (serif, bold, Didone style) -->
+  <path d="M 545 385
+           L 950 385
+           L 950 470
+           L 935 470
+           C 930 430, 915 415, 870 415
+           L 700 415
+           L 700 595
+           L 800 595
+           C 835 595, 845 580, 850 545
+           L 862 545
+           L 862 668
+           L 850 668
+           C 845 633, 835 618, 800 618
+           L 700 618
+           L 700 880
+           C 700 910, 715 915, 765 918
+           L 765 935
+           L 545 935
+           L 545 918
+           C 595 915, 612 910, 612 880
+           L 612 420
+           C 612 398, 600 387, 545 385
+           Z"
+        fill="#1A1A1A"/>
+</svg>
